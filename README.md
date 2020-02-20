@@ -15,4 +15,4 @@ Prediction of diseases based on symptoms.
 
 7.Run the script http://localhost:/Homepage.php (frontend)
 
-Login Details for Patient: user:amit, pass:amit
+Login Details for Patient: user:amit, password:amit
