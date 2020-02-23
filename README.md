@@ -15,4 +15,7 @@ Prediction of diseases based on symptoms.
 
 7.Run the script http://localhost:/Homepage.php (frontend)
 
-Login Details for Patient: user:amit, password:amit
+Login Details for Patient: user:amit, password:amit  
+                  DOCTOR: USER:101 , PASS: 101
+                  ADMIN: USER:admin, PASS: admin
+{Note: Dont press "Enter" after entering details.Just make a click on login button}
